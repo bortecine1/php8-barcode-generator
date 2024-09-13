@@ -1,6 +1,6 @@
 # PHP 8.2 Barkod Oluşturma Kütüphanesi
 
-If your language is English, please [click here](https://github.com/bortecine1/php8-barcode-generator/blob/main/readme_en.md)
+If your language is English, please [click here](https://github.com/kocahalselman/php8-barcode-generator/blob/main/readme_en.md)
 
 PHP 8+ için kullanımı kolay, hafif, esnek, çerçeveden uzak barkod oluşturma kütüphanesi. Oluşturulan barkodu JPG'ye veya bir resme dönüştürmek için ek paketler mevcuttur.
 
@@ -11,7 +11,7 @@ PHP 8+ için kullanımı kolay, hafif, esnek, çerçeveden uzak barkod oluşturm
 Ana paketi yüklemek için: [Composer](https://getcomposer.org/download/)
 
 ```composer
-composer require bortecine1/php8-barcode-genarator
+composer require kocahalselman/php8-barcode-genarator
 ```
 
 _PNG veya JPG görüntüleri oluşturmak istiyorsanız, sisteminizde GD kütüphanesinin yüklü olması gerekir._
