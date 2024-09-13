@@ -1,6 +1,6 @@
 # PHP 8.2 Barkod Oluşturma Kütüphanesi
 
-If your language is English, please [click here](https://github.com/bortecine1/php8-barcode-generator/blob/main/readme_en)
+If your language is English, please [click here](https://github.com/bortecine1/php8-barcode-generator/blob/main/readme_en.md)
 
 PHP 8+ için kullanımı kolay, hafif, esnek, çerçeveden uzak barkod oluşturma kütüphanesi. Oluşturulan barkodu JPG'ye veya bir resme dönüştürmek için ek paketler mevcuttur.
 
@@ -45,4 +45,4 @@ ve sonuç:
 ![c39](https://github.com/user-attachments/assets/6cc55f6e-f33c-49b0-a358-18c0386d75dd) (C39)
 
 ## Lisans
-LGPL License 3.0
+MIT
