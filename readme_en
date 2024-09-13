@@ -36,6 +36,11 @@ $img->saveToPngFile(BASE_DIR . 'barcode_128a.png');
 ```
 result :)
 
+![image](https://github.com/user-attachments/assets/973d460f-c2bb-4b44-bc99-c997821059b3) (C128a)
+
+![AAAA](https://github.com/user-attachments/assets/71ae3318-9571-436c-96f4-7ed5dd870e7d) (Data Matrix)
+
+![c39](https://github.com/user-attachments/assets/6cc55f6e-f33c-49b0-a358-18c0386d75dd) (C39)
 
 ## License
 MIT
